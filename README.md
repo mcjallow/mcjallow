@@ -2,7 +2,7 @@
 ### Muhammad Jallow
 
 
-🎓 Senior at the University of Dallas majoring in Computer Science<br/>
+🎓 Alum at the University of Dallas, majored in Computer Science<br/>
 💻 Passionate about software development with a focus on front-end and back-end web development<br/>
 🔧 Gaining hands-on experience through projects and internships<br/>
 🌱 Continuously learning and exploring new technologies<br/>
